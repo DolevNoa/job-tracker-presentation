@@ -5,3 +5,7 @@ manage statuses, and match resumes to job descriptions, reducing the stress of j
 
 ### This repo hosts the presentation.
 ### Code access is available upon request - https://github.com/DolevNoa/job-tracker
+
+ה
+## Authors and Acknowledgements
+This project was developed by Noa Dolev, Sagee Kron, Tehilla Iny and Ella Eyal.
